@@ -1,0 +1,236 @@
+{
+    "smartphone": {
+        "items": [
+            {
+                "id": 1,
+                "name": "Iphone 8",
+                "price": 680,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/TzxOIBw.jpg?1",
+                "capacity": 128,
+                "colour": "Space Grey",
+                "ram": "4GB",
+                "brand": "Apple ",
+                "description": "Iphone 8 128 GB space grey cu garantie 24 luni"
+            },
+            {
+                "id": 2,
+                "name": "Iphone X 256 GB Gold",
+                "price": 1200,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/XoGlIBL.jpg?3",
+                "capacity": 256,
+                "colour": "Gold",
+                "ram": "6GB",
+                "brand": "Apple",
+                "description": "Iphone X 256GB new never locked Garantie 24 luni"
+            },
+            {
+                "id": 3,
+                "name": "Iphone 12 PRO 512GB Graphite",
+                "price": 2900,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/PLaip1V.jpg",
+                "capacity": 512,
+                "colour": "Graphite",
+                "ram": "6GB",
+                "brand": "Apple",
+                "description": "Apple 12 Pro 512 GB like new !!!"
+            }
+        ],
+        "image": "https://i.imgur.com/M5YRo5m.jpg",
+        "name": "Smartphone",
+        "description": "Smartphone you realy love!"
+    },
+    "smartwatch": {
+        "items": [
+            {
+                "id": 4,
+                "name": "Apple Watch 3",
+                "price": 1123,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/eMrEDlD.jpg?2",
+                "capacity": 12,
+                "colour": "Black",
+                "ram": "1GB",
+                "brand": "Apple",
+                "description": "Apple Watch garantie 5 luni"
+            },
+            {
+                "id": 5,
+                "name": "Apple Watch 6",
+                "price": 2123,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/xCngSuw.jpg",
+                "capacity": 64,
+                "colour": "Black",
+                "ram": "4GB",
+                "brand": "Apple",
+                "description": "Apple Watch 6 nice cu garantie 24 luni"
+            },
+            {
+                "id": 6,
+                "name": "Smasung Galaxy Watch 3",
+                "price": 2243,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/mZdwP62.jpg?1",
+                "capacity": 64,
+                "colour": "Grey",
+                "ram": "4GB",
+                "brand": "Samsung",
+                "description": "Smasung Galaxy Watch bratara siliconica garantie 24 luni"
+            },
+            {
+                "id": 7,
+                "name": "Smart Band fitness",
+                "price": 160,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/adZWiSq.jpg?1",
+                "capacity": 12,
+                "colour": "Blue",
+                "ram": "1GB",
+                "brand": "Xiaomi Mija",
+                "description": "Xiaomi bratara fitness, alergare si alte activitati sportive."
+            }
+        ],
+        "image": "https://i.imgur.com/ZO9xg2S.jpg",
+        "name": "Smartwatch",
+        "description": "Smartwatch pentru activitati sportive"
+    },
+    "laptops": {
+        "items": [
+            {
+                "id": 8,
+                "name": "Huawei D14 2021",
+                "price": 3500,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ojITFRc.jpg",
+                "capacity": "256",
+                "colour": "Black ",
+                "ram": "8GB",
+                "brand": "HUAWEI",
+                "description": "Huawei laptop ulta slim cu SSD si garantie 36 luni"
+            },
+            {
+                "id": 9,
+                "name": "DELL XPS58 ",
+                "price": 6820,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/HtPiJja.jpg",
+                "capacity": "1TB",
+                "colour": "Silver",
+                "ram": "16GB",
+                "brand": "DELL",
+                "description": "Laptop Dell cu garantie 24 luni si 1TB spatiu de stocare."
+            }
+        ],
+        "image": "https://i.imgur.com/BRjpx4R.jpg",
+        "name": "Laptop",
+        "description": "Laptopuri pentru office si home & office"
+    },
+    "tablets": {
+        "items": [
+            {
+                "id": 10,
+                "name": "Tableta Apple Pro11",
+                "price": 5216,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/KOyxQSR.jpg",
+                "capacity": "256GB",
+                "colour": "Gri închis",
+                "ram": "6GB",
+                "brand": "Apple",
+                "description": "Tableta Apple Pro 11 modem 2020 cu garantie 24 luni."
+            },
+            {
+                "id": 11,
+                "name": "Samsung Galaxy tab ",
+                "price": 980,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/rBDeeY8.jpg",
+                "capacity": "64GB",
+                "colour": "Blue",
+                "ram": "6GB",
+                "brand": "Samsung",
+                "description": "Samsung Galaxy Tab 2019 cu garantie 12 luni refurbished."
+            }
+        ],
+        "image": "https://i.imgur.com/to3C3mS.jpg",
+        "name": "Tablete",
+        "description": "School will be fun again!"
+    },
+    "airpods": {
+        "items": [
+            {
+                "id": 12,
+                "name": "Apple AirPods",
+                "price": 480,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/EMA0buD.jpg?1",
+                "capacity": "NA",
+                "colour": "White",
+                "ram": "NA",
+                "brand": "Apple",
+                "description": "Air pods 4 ore redare muzica si 8 ore standby."
+            },
+            {
+                "id": 13,
+                "name": "AirPods Pro",
+                "price": 780,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/ywvv5D6.jpg",
+                "capacity": "NA",
+                "colour": "White",
+                "ram": "NA",
+                "brand": "Apple",
+                "description": "Apple AirPods Pro pana la 8 ora redare muzica si 16 ore standby."
+            },
+            {
+                "id": 14,
+                "name": "Jabra Buds",
+                "price": 1909,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/QJT77hE.jpg",
+                "capacity": "NA",
+                "colour": "Black",
+                "ram": "NA",
+                "brand": "Jabra",
+                "description": "Jabra Buds pana la 16 ore redare muzica si 24 ore in standby."
+            }
+        ],
+        "image": "https://i.imgur.com/HlhS2FG.jpg",
+        "name": "Headphones",
+        "description": "Free your hands!!!"
+    },
+    "vintagestaff": {
+        "items": [
+            {
+                "id": 15,
+                "name": "Old Phone 111",
+                "price": 825,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/WgdeIPs.jpg",
+                "capacity": "NA",
+                "colour": "Grey",
+                "ram": "NA",
+                "brand": "Bell",
+                "description": "Telefon vechi cu disc."
+            },
+            {
+                "id": 16,
+                "name": "Motorola Star Tac",
+                "price": 250,
+                "currency": "LEI",
+                "image": "https://i.imgur.com/pO2b9HP.jpg",
+                "capacity": "24MB",
+                "colour": "Grey",
+                "ram": "64MB",
+                "brand": "Motorola",
+                "description": "Motorola flip phone."
+            }
+        ],
+        "image": "https://i.imgur.com/xGGyRn0.jpg",
+        "name": "Vintage Stuff",
+        "description": "Chestii old but fun!"
+    }
+}
